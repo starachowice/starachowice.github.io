@@ -1,0 +1,95 @@
+body {
+background-image: url("https://wallpaperaccess.com/full/45056.jpg");
+  background-size: 100% auto;
+}
+
+@font-face {
+   font-family: Terminus;
+   src: url("/fonts/terminusbold.ttf");
+}
+
+
+h1 {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 8px;
+  text-align: center;
+  font-family: Terminus;
+  color:white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+
+.gif-sunglas {
+ width: 80px;
+ height: 58px;
+ image-rendering: pixelated;
+}
+
+.buton {
+ width: 88px;
+ height: 31px;
+ image-rendering: pixelated;
+}
+
+.heading {
+ color: white;
+ font-family: Terminus;
+ font-size: 25px;
+}
+
+#menu {
+  font-family: "Handjet", cursive;
+  margin-top: 160px;
+  margin-left: 75%;
+  width: 176px;
+  display: flex;
+  flex-flow: column wrap;
+  position: absolute;
+  float: left;
+  border-style: outset;
+  border-color: pink;
+  background-color: pink;
+}
+
+#menuopt {
+  padding-top: 70px;
+}
+
+#buttony {
+  margin-top: 5px;
+  margin-left: 14%;
+  width: 176px;
+  display: flex;
+  flex-flow: row wrap;
+  position: absolute;
+  float: left;  
+  border-style: outset;
+  border-color: pink;
+}
+
+#header {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ clear: both;
+ border-style: outset;
+ border-color: pink;
+ background-color: pink; 
+ margin-right: 20%;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ margin-left: 20%;
+}
+
+#body {
+border-style: outset;
+border-color:rgba(255, 192, 203);
+margin-right: 20%;
+margin-top: 25px;
+margin-left: 20%;
+min-height: 800px;
+background:rgba(255, 192, 203,0.5);
+clear: both;
+
+}
