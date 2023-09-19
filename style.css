@@ -8,6 +8,13 @@ background-image: url("https://wallpaperaccess.com/full/45056.jpg");
    src: url("/fonts/terminusbold.ttf");
 }
 
+a, a:hover, a:visited{
+  border:none;
+  outline:none;
+  text-decoration:none;
+  color:inherit;
+  -webkit-tap-highlight-color: white;
+}
 
 h1 {
   margin-left:auto;
