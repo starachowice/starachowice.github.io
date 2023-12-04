@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="module" src="./maze95.js"></script>
+    <link rel="stylesheet" href="./index.css">
+    <title>Maze 95 JS</title>
+  </head>
+  <body>
+    <!--script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js')
+      }
+    </script-->
+    <canvas id="game"></canvas>
+  </body>
+</html>
