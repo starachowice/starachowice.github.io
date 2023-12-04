@@ -1,8 +1,9 @@
 body {
+	background-color: black;
 background-image: url("https://wallpaperaccess.com/full/45056.jpg");
   background-size: 100% auto;
 	background-repeat: no-repeat;
-	background-color: black;
+	
 }
 
 @font-face {
