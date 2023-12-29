@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>fanclub kanyego westa w starachowicach :D</title>
+  <meta charset="UTF-8"> 
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Handjet:wght@600&display=swap" rel="stylesheet">
+<meta content="KANYE WEST 2024" property="og:title" />
+<meta content="FAN CLUB YE" property="og:description" />
+<meta content="http://kanyewest.eu/" property="og:url" />
+<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2114926140630519"
+     crossorigin="anonymous"></script>
+<a href="https://www.kanyewest.eu/"><div id="header">
+
+</head>
+<body> 
+ <div id="app" style="height: 1vh">
+        <!-- Webamp will attempt to center itself within this div -->
+    </div>
+    <script src="https://unpkg.com/webamp@1.4.2/built/webamp.bundle.min.js"></script>
+    <script>
+        const Webamp = window.Webamp;
+        const webamp = new Webamp({
+            initialTracks: [
+                {
+                    metaData: {
+                        artist: "Kanye West",
+                        title: "BLKKKKKK SKIN HEAD"
+                    },
+                    // NOTE: Your audio file must be served from the same domain as your HTML
+                    // file, or served with permissive CORS HTTP headers:
+                    // https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+                    url: "https://www.kanyewest.eu/Black%20Skinhead.mp3",
+                    duration: 183
+                },
+                {
+                    metaData: {
+                        artist: "Some Artist",
+                        title: "Title of Second Track"
+                    },
+                    url: "https://cdn.jsdelivr.net/gh/captbaritone/webamp@43434d82cfe0e37286dbbe0666072dc3190a83bc/mp3/llama-2.91.mp3",
+                    duration: 5.322286
+                }
+            ],
+        });
+
+        // Returns a promise indicating when it's done loading.
+        webamp.renderWhenReady(document.getElementById('app'));
+    </script>
+
+
+<img class="gif-sunglas" src="img/ggfaja.gif">
+<p class="heading">fani kanyego westa w starachowicach/zamosciu&nbsp;</p>
+<img class="gif-sunglas" src="img/ggfaja.gif">
+</div></a>
+
+<div id="buttony">
+	<img class="buton" src="https://anlucas.neocities.org/site_best_viewed_with_monitor.gif">
+        <img class="buton" src="https://cyber.dabamos.de/88x31/imhigh.gif">
+        <img class="buton" src="https://cyber.dabamos.de/88x31/linux_powered.gif">
+        <img class="buton" src="https://cyber.dabamos.de/88x31/yahoo.gif">
+        <img class="buton" src="https://yesterhost.neocities.org/archive/buttons/button355.png">
+        <img class="buton" src="https://cyber.dabamos.de/88x31/wii.gif">
+        <img class="buton" src="https://yesterhost.neocities.org/archive/buttons/button195.png">
+        <img class="buton" src="https://cyber.dabamos.de/images/norton.gif">
+	<img class="buton" src="https://anlucas.neocities.org/aolsucks.gif">
+	<img class="buton" src="https://anlucas.neocities.org/built_with_microsoft_notepad.gif">
+        </div>
+
+<div id="menu">
+<h1>Menu</h1>
+<ul id="listamenu">
+<li>Działa na amd e1-2100</li>
+<li>:D</li>
+<li>:D</li>
+</ul>
+</div>
+
+<div id="body">
+	<h1>Strona poświęcona artyście Kanye "ye" West </h1> <br><br>
+	
+        <a class="smieszne" href="https://kanyewest.eu/" onmouseover='zmiana.src="img/1.png"' 
+        onmouseout='zmiana.src="img/2.png"' onmousedown='zmiana.src="img/3.png"'>
+        <img src="img/4.png" name="zmiana">
+    </a>
+
+	<a href="https://www.kanyewest.eu/grawideo.html" class="myButton">ZAGRAJ W GRE WIDEO</a>
+
+	<a href="https://twitter.com/drt_van" class="myButton1">zamosc</a>
+	<a href="https://twitter.com/koroer" class="myButton">starachowice</a>
+
+
+</div>
+
+	<div id="body">
+
+
+	<img src="https://5.allegroimg.com/s1024/0c38ad/48f0769f4f5db6fb894bfbe44625">
+	maszyna faxowa
+
+
+	</div>
+<script src="./oneko.js"></script>
+</body>
+</html>
